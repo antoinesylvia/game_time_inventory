@@ -2,8 +2,8 @@
 
 First Generation
 
-    Magnavox Odyssey (1972)
-    Pong Consoles (1975)
+- [x] Magnavox Odyssey (1972)
+- [x] Pong Consoles (1975)
 
 Second Generation
 
