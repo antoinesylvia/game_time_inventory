@@ -142,4 +142,42 @@ Ninth Generation
 - [x] PlayStation 5 (2020)
 
 -----------------------------------
+Misc. [Other Things I'm Tracking]
 
+- [ ] AIWA Mega - CD
+- [ ] APF MP1000
+- [ ] Atari 2800
+- [ ] Atari Jaguar CD
+- [ ] Bandai Super Vision 8000
+- [ ] Bit Corporation Gamate
+- [ ] Capcom Power System Changer
+- [ ] Captain Power Powerjet XT-7
+- [ ] Casio PV-1000
+- [ ] Commodore 64 GS
+- [ ] Cybiko
+- [ ] Elektronika Videosport 3
+- [ ] Gakken TV Boy Compact
+- [ ] Interton VC-4000
+- [ ] Kingway Top Guy
+- [ ] Micro Genius
+- [ ] NEC PC Engine LT
+- [ ] Nichibutsu Myvision
+- [ ] Palmtex Super Micro
+- [ ] Phillips Videopac+ g7400
+- [ ] Phillips CDi portable
+- [ ] Pioner SD-25
+- [ ] Sega Beena
+- [ ] Sega ir 7000
+- [ ] Sega Mark III
+- [ ] Sega Mega Jet
+- [ ] Sega Multi-Mega & Wondermega
+- [ ] Sega Video Driver
+- [ ] Sony PSX
+- [ ] Sony Xperia
+- [ ] Timetop Gameking
+- [ ] Tomy Kiss-Site
+- [ ] Tomy Pyuuta Jr.
+- [ ] Video Interactive Learning Game
+- [x] Visteon Dockable Entertainment System (Gameboy Advance, made for cars)
+- [ ] Yamaha Copera
+- [ ] Zemmix
