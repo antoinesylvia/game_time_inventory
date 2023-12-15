@@ -1,6 +1,8 @@
-# game_time_inventory
+# game_time_inventory_tracker
 
-List is based on the book: The Game Console 2.0: A Photographic History from Atari to Xbox
+List below is based on the book: The Game Console 2.0: A Photographic History from Atari to Xbox
+
+If you ever come out here to Dallas, I would highly recommend checking out the [Videogame History Museum](https://www.youtube.com/watch?v=Le_aHIOZZNQ)!
 
 -------------------
 
