@@ -1,5 +1,9 @@
 # game_time_inventory
 
+List is based on the book: The Game Console 2.0: A Photographic History from Atari to Xbox
+
+-------------------
+
 First Generation
 
 - [x] Magnavox Odyssey (1972)
@@ -136,3 +140,6 @@ Ninth Generation
 - [x] Oculus Quest (2019)
 - [x] Xbox Series X|S (2020)
 - [x] PlayStation 5 (2020)
+
+-----------------------------------
+
