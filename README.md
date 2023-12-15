@@ -6,7 +6,7 @@ If you ever come out here to Dallas, I would highly recommend checking out the [
 
 List below is based on the book: The Game Console 2.0: A Photographic History from Atari to Xbox
 
-![Link](https://raw.githubusercontent.com/antoinesylvia/game_time/main/book.jpg)
+![Link2](https://raw.githubusercontent.com/antoinesylvia/game_time/main/book.jpg)
 
 -------------------
 
