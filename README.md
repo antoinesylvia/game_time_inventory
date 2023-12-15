@@ -1,4 +1,4 @@
-# game_time_inventory_tracker
+# inventory_tracker
 
 List below is based on the book: The Game Console 2.0: A Photographic History from Atari to Xbox
 
