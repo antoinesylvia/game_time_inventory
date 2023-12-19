@@ -111,6 +111,7 @@ Seventh Generation
 - [ ] GP32 (2001)
 - [x] Game Boy Advance (2001)
 - [x] Nintendo GameCube (2001)
+    - [x] Game Boy Player 
 - [x] Microsoft Xbox (2001)
 - [x] Nokia N-Gage (2003)
 - [ ] Tapwave Zodiac (2003)
