@@ -21,13 +21,13 @@ Second Generation
 - [ ] RCA Studio II (1977)
 - [ ] Coleco Telstar Arcade (1977)
 - [x] Atari 2600 (1977)
+- [ ] VideoBrain Family Computer (1977)
 - [ ] Bally Professional Arcade (1978)
 - [x] Magnavox Odyssey² (1978)
-- [ ] PC-50x Series (1979)
 - [ ] APF MP1000 (1978)
-- [ ] VideoBrain Family Computer (1977)
 - [x] Interton VC 4000 (1978)
 - [ ] Unisonic Champion 2711 (1978)
+- [ ] PC-50x Series (1979)
 - [ ] Microvision (1979)
 - [ ] Atari 800 (1979)
 - [x] Intellivision (1980)
@@ -44,12 +44,12 @@ Third Generation
 
 - [x]  ColecoVision (1982)
 - [x]  Atari 5200 (1982)
-- [x]  Vectrex (1983)
 - [ ] Entex Adventure Vision (1982)
 - [ ] VTech CreatiVision (1982)
-- [x]  Action Max (1987)
+- [x]  Vectrex (1983)
 - [ ] Family Tutor (1983)
 - [ ] My Vision (1983)
+- [x]  Action Max (1987)
 
 Fourth Generation
 
