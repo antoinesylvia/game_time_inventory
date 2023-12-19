@@ -21,6 +21,7 @@ Second Generation
 - [ ] RCA Studio II (1977)
 - [ ] Coleco Telstar Arcade (1977)
 - [x] Atari 2600 (1977)
+    - [ ] Atari 2800 
 - [ ] VideoBrain Family Computer (1977)
 - [ ] Bally Professional Arcade (1978)
 - [x] Magnavox Odyssey² (1978)
@@ -81,6 +82,7 @@ Fifth Generation
 - [x] Amiga CD32 (1993)
 - [x] 3DO (1993)
 - [x] Atari Jaguar (1993)
+    - [ ] Atari Jaguar CD 
 - [x] Sega Saturn (1994)
 - [x] Sony PlayStation (1994)
 - [x] Bandai Playdia (1994)
@@ -90,6 +92,7 @@ Fifth Generation
 - [ ] Super A'can (1995)
 - [x] Casio Loopy (1995)
 - [x] Nintendo 64 (1996)
+    - [ ] Nintendo 64 Disk Drive (DD)
 - [ ] Apple Pippin (1996)
 - [x] Tiger Game.com (1997)
 - [x] Game Boy Color (1998)
@@ -153,8 +156,7 @@ Misc. [Other Things I'm Tracking]
 
 - [ ] AIWA Mega - CD
 - [ ] APF MP1000
-- [ ] Atari 2800
-- [ ] Atari Jaguar CD
+
 - [ ] Bandai Super Vision 8000
 - [ ] Bit Corporation Gamate
 - [ ] Capcom Power System Changer
