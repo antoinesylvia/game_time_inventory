@@ -68,6 +68,7 @@ Fourth Generation
 - [ ] Hartung Game Master (1990)
 - [x] Amstrad GX4000 (1990)
 - [x] Super Famicom (1990)
+    - [x] Nintendo Satelliview 
 - [ ] Commodore CDTV (1991)
 - [x] Super NES (1991)
 - [ ] Philips CD-i (1991)
