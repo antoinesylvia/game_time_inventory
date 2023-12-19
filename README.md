@@ -44,14 +44,14 @@ Second Generation
 
 Third Generation
 
-- [x]  ColecoVision (1982)
-- [x]  Atari 5200 (1982)
+- [x] Coleco ColecoVision (1982)
+- [x] Atari 5200 (1982)
 - [ ] Entex Adventure Vision (1982)
 - [ ] VTech CreatiVision (1982)
-- [x]  Vectrex (1983)
+- [x] GCE Vectrex (1983)
 - [ ] Family Tutor (1983)
 - [ ] My Vision (1983)
-- [x]  Action Max (1987)
+- [x] Action Max (1987)
 
 Fourth Generation
 
@@ -63,24 +63,24 @@ Fourth Generation
 - [x] Atari Lynx (1989)
 - [ ] Intertactive Vision (1989)
 - [ ] Gamate (1990)
-- [x] Neo Geo AES (1990)
+- [x] SNK Neo Geo AES (1990)
 - [x] Sega Game Gear (1990)
 - [ ] Hartung Game Master (1990)
 - [x] Amstrad GX4000 (1990)
-- [x] Super Famicom (1990)
+- [x] Nintendo Super Famicom (1990)
     - [x] Nintendo Satelliview 
 - [ ] Commodore CDTV (1991)
-- [x] Super NES (1991)
+- [x] Nintendo Super NES (1991)
 - [ ] Philips CD-i (1991)
 - [ ] Memorex VIS (1992)
 - [x] Watara Supervision (1992)
-- [ ] Mega Duck (1993)
+- [ ] Creatonic Mega Duck (1993)
 - [x] Pioneer LaserActive (1993)
 
 Fifth Generation
 
-- [x] FM Towns Marty (1993)
-- [x] Amiga CD32 (1993)
+- [x] Fujitsu FM Towns Marty (1993)
+- [x] Commodore Amiga CD32 (1993)
 - [x] 3DO (1993)
 - [x] Atari Jaguar (1993)
     - [ ] Atari Jaguar CD 
@@ -88,7 +88,7 @@ Fifth Generation
 - [x] Sony PlayStation (1994)
 - [x] Bandai Playdia (1994)
 - [x] NEC PC-FX (1994)
-- [x] Virtual Boy (1995)
+- [x] Nintendo Virtual Boy (1995)
 - [x] Tiger R-Zone (1995)
 - [ ] Super A'can (1995)
 - [x] Casio Loopy (1995)
@@ -96,14 +96,14 @@ Fifth Generation
     - [ ] Nintendo 64 Disk Drive (DD)
 - [ ] Apple Pippin (1996)
 - [x] Tiger Game.com (1997)
-- [x] Game Boy Color (1998)
-- [x] Neo Geo Pocket (1998)
-- [x] WonderSwan (1999)
+- [x] Nintendo Game Boy Color (1998)
+- [x] SNK Neo Geo Pocket (1998)
+- [x] Bandai WonderSwan (1999)
 
 Sixth Generation
 
 - [x] Sega Dreamcast (1998)
-- [x] PlayStation 2 (2000)
+- [x] Sony PlayStation 2 (2000)
 - [x] Nuon (2000)
 
 Seventh Generation
@@ -121,10 +121,10 @@ Seventh Generation
 - [x] Nintendo DS (2004)
 - [x] Gizmondo (2005)
 - [x] Game Wave (2005)
-- [x] Xbox 360 (2005)
-- [x] HyperScan (2006)
+- [x] Microsoft Xbox 360 (2005)
+- [x] Tiger HyperScan (2006)
 - [x] Vtech V.Flash (2006)
-- [x] PlayStation 3 (2006)
+- [x] Sony PlayStation 3 (2006)
 - [x] Nintendo Wii (2006)
 
 Eighth Generation
@@ -134,12 +134,12 @@ Eighth Generation
 - [x] Zeebo (2009)
 - [x] OnLive (2010)
 - [x] Nintendo 3DS (2011)
-- [x] PlayStation Vita (2011)
-- [x] Wii U (2012)
+- [x] Sony PlayStation Vita (2011)
+- [x] Nintendo Wii U (2012)
 - [x] Ouya (2013)
 - [x] GameStick (2013)
-- [x] PlayStaion 4 (2013)
-- [x] Xbox One (2013)
+- [x] Sony PlayStaion 4 (2013)
+- [x] Microsoft Xbox One (2013)
 - [x] Mad Catz MOJO (2013)
 - [x] Amazon Fire TV (2014)
 - [x] Nvidia Shield TV (2015)
@@ -150,7 +150,7 @@ Ninth Generation
 - [x] Nintendo Switch (2017)
 - [x] Google Stadia (2019)
 - [ ] Oculus Quest (2019)
-- [x] Xbox Series X|S (2020)
+- [x] Microsoft Xbox Series X|S (2020)
 - [x] PlayStation 5 (2020)
 
 -----------------------------------
@@ -158,13 +158,11 @@ Misc. [Other Things I'm Tracking]
 
 - [ ] AIWA Mega - CD
 - [ ] APF MP1000
-
 - [ ] Bandai Super Vision 8000
 - [ ] Bit Corporation Gamate
 - [ ] Capcom Power System Changer
 - [ ] Captain Power Powerjet XT-7
 - [ ] Casio PV-1000
-
 - [ ] Cybiko
 - [ ] Elektronika Videosport 3
 - [ ] Gakken TV Boy Compact
@@ -190,5 +188,6 @@ Misc. [Other Things I'm Tracking]
 - [ ] Tomy Pyuuta Jr.
 - [ ] Video Interactive Learning Game
 - [x] Visteon Dockable Entertainment System (Gameboy Advance, made for cars)
+- [ ] Vtech V.Motion
 - [ ] Yamaha Copera
 - [ ] Zemmix
