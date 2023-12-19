@@ -149,7 +149,7 @@ Ninth Generation
 
 - [x] Nintendo Switch (2017)
 - [x] Google Stadia (2019)
-- [x] Oculus Quest (2019)
+- [ ] Oculus Quest (2019)
 - [x] Xbox Series X|S (2020)
 - [x] PlayStation 5 (2020)
 
