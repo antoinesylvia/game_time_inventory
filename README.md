@@ -38,6 +38,7 @@ Second Generation
 - [x] Emerson Arcadia 2001 (1982)
 - [ ] ZX Spectrum (1982)
 - [x] Commodore 64 (1982)
+    - [ ] Commodore 64 GS
     
 
 Third Generation
@@ -159,7 +160,7 @@ Misc. [Other Things I'm Tracking]
 - [ ] Capcom Power System Changer
 - [ ] Captain Power Powerjet XT-7
 - [ ] Casio PV-1000
-- [ ] Commodore 64 GS
+
 - [ ] Cybiko
 - [ ] Elektronika Videosport 3
 - [ ] Gakken TV Boy Compact
