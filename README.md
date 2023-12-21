@@ -9,12 +9,11 @@ List below is based on the book: [The Game Console 2.0: A Photographic History f
 ![Link2](https://raw.githubusercontent.com/antoinesylvia/game_time/main/book.jpg)
 
 -------------------
-
 First Generation
 
 - [x] Magnavox Odyssey (1972)
 - [x] Pong Consoles (1975)
-
+-------------------
 Second Generation
 
 - [x] Fairchild Channel F (1976)
@@ -47,9 +46,9 @@ Second Generation
 - [ ] VTech CreatiVision (1982)
 - [ ] Tomy Tutor (1983)
 - [ ] Mattel Aquarius (1983)
-
 - [x] GCE Vectrex (1983)
     
+-------------------
 Third Generation
 - [ ] Sega SG-1000 (1983)
 - [ ] Nintendo Famicom (1983)
@@ -62,6 +61,7 @@ Third Generation
 - [ ] RDI Halcyon
 - [x] WoW Action Max (1987)
 
+-------------------
 Fourth Generation
 
 - [ ] NEC PC Engine (1987)
@@ -103,6 +103,7 @@ Fourth Generation
 - [ ] Creatonic Mega Duck (1993)
 - [x] Pioneer LaserActive (1993)
 
+-------------------
 Fifth Generation
 
 - [x] Fujitsu FM Towns Marty (1993)
@@ -127,12 +128,14 @@ Fifth Generation
 - [x] SNK Neo Geo Pocket (1998)
 - [x] Bandai WonderSwan (1999)
 
+-------------------
 Sixth Generation
 
 - [x] Sega Dreamcast (1998)
 - [x] Sony PlayStation 2 (2000)
 - [x] Nuon (2000)
 
+-------------------
 Seventh Generation
 
 - [ ] Game Park GP32 (2001)
@@ -173,6 +176,7 @@ Eighth Generation
 - [x] Nvidia Shield TV (2015)
 - [x] Steam Link (2015)
 
+-------------------
 Ninth Generation
 
 - [x] Nintendo Switch (2017)
