@@ -58,6 +58,7 @@ Fourth Generation
 - [ ] NEC PC Engine (1987)
     - [ ] NEC PC Engine CD
     - [ ] NEC PC Engine Duo
+    - [ ] NEC PC Engine GT
 - [ ] Sega Mega Drive (1988)
     - [x] Sega Mega CD
     - [x] Sega Mega 32X
@@ -116,7 +117,7 @@ Sixth Generation
 
 Seventh Generation
 
-- [ ] GP32 (2001)
+- [ ] Game Park GP32 (2001)
 - [x] Game Boy Advance (2001)
 - [x] Nintendo GameCube (2001)
     - [x] Game Boy Player 
@@ -125,7 +126,8 @@ Seventh Generation
 - [ ] Tapwave Zodiac (2003)
 - [x] XaviXPORT (2004)
 - [x] Vtech V.Smile (2004)
-- [x] PlayStation Portable (2004)
+- [x] Sony PlayStation Portable (PSP) (2004)
+    - [x] Sony PSP Go 
 - [x] Nintendo DS (2004)
 - [x] Gizmondo (2005)
 - [x] Game Wave (2005)
