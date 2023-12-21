@@ -62,6 +62,8 @@ Fourth Generation
 - [ ] Sega Mega Drive (1988)
     - [x] Sega Mega CD
     - [x] Sega Mega 32X
+    - [ ] AIWA Mega - CD
+    - [ ] Sega Mega Jet
 - [x] Nintendo Game Boy (1989)
 - [x] Sega Genesis (1989)
     - [x] Sega 32X 
@@ -104,6 +106,7 @@ Fifth Generation
 - [x] Nintendo 64 (1996)
     - [ ] Nintendo 64 Disk Drive (DD)
 - [ ] Apple Pippin (1996)
+    - [x] Apple Pippin Atmark Floppy Unit 
 - [x] Tiger Game.com (1997)
 - [x] Nintendo Game Boy Color (1998)
 - [x] SNK Neo Geo Pocket (1998)
@@ -130,7 +133,7 @@ Seventh Generation
     - [x] Sony PSP Go 
 - [x] Nintendo DS (2004)
 - [x] Gizmondo (2005)
-- [x] Game Wave (2005)
+- [x] ZapIt Game Wave (2005)
 - [x] Microsoft Xbox 360 (2005)
 - [x] Tiger HyperScan (2006)
 - [x] Vtech V.Flash (2006)
@@ -166,10 +169,9 @@ Ninth Generation
 -----------------------------------
 Misc. [Other Things I'm Tracking]
 
-- [ ] AIWA Mega - CD
+
 - [ ] APF MP1000
 - [ ] Bandai Super Vision 8000
-- [ ] Bit Corporation Gamate
 - [ ] Capcom Power System Changer
 - [ ] Captain Power Powerjet XT-7
 - [ ] Casio PV-1000
@@ -179,8 +181,6 @@ Misc. [Other Things I'm Tracking]
 - [ ] Interton VC-4000
 - [ ] Kingway Top Guy
 - [ ] Micro Genius
-- [ ] NEC PC Engine LT
-- [ ] Nichibutsu Myvision
 - [ ] Palmtex Super Micro
 - [ ] Phillips Videopac+ g7400
 - [ ] Phillips CDi portable
@@ -188,10 +188,10 @@ Misc. [Other Things I'm Tracking]
 - [ ] Sega Beena
 - [ ] Sega ir 7000
 - [ ] Sega Mark III
-- [ ] Sega Mega Jet
+
 - [ ] Sega Multi-Mega & Wondermega
 - [ ] Sega Video Driver
-- [ ] Sony PSX
+
 - [ ] Sony Xperia
 - [ ] Timetop Gameking
 - [ ] Tomy Kiss-Site
