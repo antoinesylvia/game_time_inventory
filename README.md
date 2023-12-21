@@ -64,9 +64,14 @@ Fourth Generation
     - [x] Sega Mega 32X
     - [ ] AIWA Mega - CD
     - [ ] Sega Mega Jet
+    - [ ] Sega Multi-Mega
+    - [ ] JVC Wondermega
 - [x] Nintendo Game Boy (1989)
 - [x] Sega Genesis (1989)
-    - [x] Sega 32X 
+    - [x] Sega CD 
+    - [x] Sega 32X
+    - [ ] Sega CDX
+    - [ ] JVC X'Eye
 - [x] NEC TurboGrafx-16 (1989)
     - [ ] NEC TurboGraphx CD
     - [x] NEC TurboDuo
@@ -83,6 +88,7 @@ Fourth Generation
 - [ ] Commodore CDTV (1991)
 - [x] Nintendo Super NES (1991)
 - [ ] Philips CD-i (1991)
+    - [ ] Phillips CDi portable
 - [ ] Memorex VIS (1992)
 - [x] Watara Supervision (1992)
 - [ ] Creatonic Mega Duck (1993)
@@ -183,13 +189,13 @@ Misc. [Other Things I'm Tracking]
 - [ ] Micro Genius
 - [ ] Palmtex Super Micro
 - [ ] Phillips Videopac+ g7400
-- [ ] Phillips CDi portable
+
 - [ ] Pioner SD-25
 - [ ] Sega Beena
 - [ ] Sega ir 7000
 - [ ] Sega Mark III
 
-- [ ] Sega Multi-Mega & Wondermega
+
 - [ ] Sega Video Driver
 
 - [ ] Sony Xperia
