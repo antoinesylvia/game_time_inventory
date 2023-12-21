@@ -71,7 +71,7 @@ Fourth Generation
     - [x] NEC TurboExpress
 - [x] Atari Lynx (1989)
 - [ ] Intertactive Vision (1989)
-- [ ] Gamate (1990)
+- [ ] Bit Corporation Gamate (1990)
 - [x] SNK Neo Geo AES (1990)
 - [x] Sega Game Gear (1990)
 - [ ] Hartung Game Master (1990)
