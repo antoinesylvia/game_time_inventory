@@ -52,6 +52,10 @@ Second Generation
 Third Generation
 - [ ] Sega SG-1000 (1983)
 - [ ] Nintendo Famicom (1983)
+    - [ ] Famicom 3D System
+    - [ ] Famicom Disk System
+    - [x] Sharp Twin Famicom
+    - [x] Sharp Famicom Titler 
 - [ ] Casio PV-1000 (1983)
 - [ ] Super Cassette Vision (1984)
 - [x] Nintendo Entertainment System (1985)
@@ -158,6 +162,7 @@ Seventh Generation
 - [x] Sony PlayStation 3 (2006)
 - [x] Nintendo Wii (2006)
 
+-------------------
 Eighth Generation
 
 - [x] Apple iOS (2007)
@@ -170,6 +175,7 @@ Eighth Generation
 - [x] Ouya (2013)
 - [x] GameStick (2013)
 - [x] Sony PlayStaion 4 (2013)
+    - [x] PlayStation VR 
 - [x] Microsoft Xbox One (2013)
 - [x] Mad Catz MOJO (2013)
 - [x] Amazon Fire TV (2014)
@@ -184,6 +190,7 @@ Ninth Generation
 - [ ] Oculus Quest (2019)
 - [x] Microsoft Xbox Series X|S (2020)
 - [x] PlayStation 5 (2020)
+    - [ ] PlayStation VR2 
 
 -----------------------------------
 Misc. [Other Things I'm Tracking]
