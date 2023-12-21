@@ -59,14 +59,15 @@ Fourth Generation
     - [ ] NEC PC Engine CD
     - [ ] NEC PC Engine Duo
 - [ ] Sega Mega Drive (1988)
-    - [ ] Sega Mega CD
-    - [ ] Sega Mega 32X
+    - [x] Sega Mega CD
+    - [x] Sega Mega 32X
 - [x] Nintendo Game Boy (1989)
 - [x] Sega Genesis (1989)
     - [x] Sega 32X 
 - [x] NEC TurboGrafx-16 (1989)
     - [ ] NEC TurboGraphx CD
-    - [ ] NEC TurboDuo
+    - [x] NEC TurboDuo
+    - [x] NEC TurboExpress
 - [x] Atari Lynx (1989)
 - [ ] Intertactive Vision (1989)
 - [ ] Gamate (1990)
