@@ -40,17 +40,26 @@ Second Generation
 - [ ] ZX Spectrum (1982)
 - [x] Commodore 64 (1982)
     - [ ] Commodore 64 GS
-    
-
-Third Generation
-
 - [x] Coleco ColecoVision (1982)
+    - [ ] Coleco Adam
 - [x] Atari 5200 (1982)
 - [ ] Entex Adventure Vision (1982)
 - [ ] VTech CreatiVision (1982)
-- [x] GCE Vectrex (1983)
 - [ ] Tomy Tutor (1983)
-- [ ] Nichibutsu My Vision (1983)
+- [ ] Mattel Aquarius (1983)
+
+- [x] GCE Vectrex (1983)
+    
+Third Generation
+- [ ] Sega SG-1000 (1983)
+- [ ] Nintendo Famicom (1983)
+- [ ] Casio PV-1000 (1983)
+- [ ] Super Cassette Vision (1984)
+- [x] Nintendo Entertainment System (1985)
+- [x] Sega Master System (1986)
+- [x] Atari 7800 (1986(
+- [ ] Game Pocket Computer (1984)
+- [ ] RDI Halcyon
 - [x] WoW Action Max (1987)
 
 Fourth Generation
