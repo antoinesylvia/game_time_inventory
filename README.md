@@ -27,9 +27,11 @@ Second Generation
 - [ ] APF MP1000 (1978)
 - [x] Interton VC 4000 (1978)
 - [ ] Unisonic Champion 2711 (1978)
+- [ ] APF MP1000 (1978)
 - [ ] PC-50x Series (1979)
 - [ ] Microvision (1979)
 - [ ] Atari 800 (1979)
+- [ ] Bandai Super Vision 8000
 - [x] Intellivision (1980)
 - [ ] Nintendo Game & Watch (1980)
 - [ ] Epoch Cassette Vision (1981)
@@ -47,6 +49,8 @@ Second Generation
 - [ ] Tomy Tutor (1983)
 - [ ] Mattel Aquarius (1983)
 - [x] GCE Vectrex (1983)
+- [ ] Phillips Videopac+ g7400 (1983)
+- [ ] Casio PV-1000 (1983)
     
 -------------------
 Third Generation
@@ -196,11 +200,11 @@ Ninth Generation
 Misc. [Other Things I'm Tracking]
 
 
-- [ ] APF MP1000
-- [ ] Bandai Super Vision 8000
+
+
 - [ ] Capcom Power System Changer
 - [ ] Captain Power Powerjet XT-7
-- [ ] Casio PV-1000
+
 - [ ] Cybiko
 - [ ] Elektronika Videosport 3
 - [ ] Gakken TV Boy Compact
@@ -208,7 +212,7 @@ Misc. [Other Things I'm Tracking]
 - [ ] Kingway Top Guy
 - [ ] Micro Genius
 - [ ] Palmtex Super Micro
-- [ ] Phillips Videopac+ g7400
+
 
 - [ ] Pioner SD-25
 - [ ] Sega Beena
