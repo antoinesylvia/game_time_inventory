@@ -77,8 +77,6 @@ Third Generation
 - [ ] Palmtex Super Micro (1986)
 - [ ] Pioner SD-25 (1987)
 - [ ] Video Interactive Learning Game (1987)
-
-
 - [x] WoW Action Max (1987)
 
 -------------------
