@@ -215,7 +215,8 @@ Ninth Generation
 - [ ] Oculus Quest (2019)
 - [x] Microsoft Xbox Series X|S (2020)
 - [x] PlayStation 5 (2020)
-    - [ ] PlayStation VR2 
+    - [ ] PlayStation VR2
+    - [ ] Playstation Portal
 
 -----------------------------------
 Misc. [Other Things I'm Tracking]
