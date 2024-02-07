@@ -38,6 +38,7 @@ Second Generation
 - [ ] Nintendo Game & Watch (1980)
 - [ ] Epoch Cassette Vision (1981)
 - [ ] Entex Select-A-Game (1981)
+- [ ] Elektronika Videosport 3 (1981)
 - [ ] Commodore VIC-20 (1981)
 - [x] Emerson Arcadia 2001 (1982)
 - [ ] ZX Spectrum (1982)
@@ -51,6 +52,8 @@ Second Generation
 - [ ] Tomy Tutor (1983)
 - [ ] Mattel Aquarius (1983)
 - [x] GCE Vectrex (1983)
+- [ ] Gakken TV Boy Compact (1983)
+- [ ] Interton VC-4000 (1983)
 - [ ] Phillips Videopac+ g7400 (1983)
 - [ ] Casio PV-1000 (1983)
     
@@ -64,11 +67,18 @@ Third Generation
     - [x] Sharp Famicom Titler 
 - [ ] Casio PV-1000 (1983)
 - [ ] Super Cassette Vision (1984)
+- [ ] Game Pocket Computer (1984)
 - [x] Nintendo Entertainment System (1985)
+- [ ] Sega Mark III (1985)
 - [x] Sega Master System (1986)
 - [x] Atari 7800 (1986)
-- [ ] Game Pocket Computer (1984)
-- [ ] RDI Halcyon
+- [ ] Capcom Power System Changer (1986)
+- [ ] Micro Genius (1986)
+- [ ] Palmtex Super Micro (1986)
+- [ ] Pioner SD-25 (1987)
+- [ ] Video Interactive Learning Game (1987)
+
+
 - [x] WoW Action Max (1987)
 
 -------------------
@@ -85,6 +95,9 @@ Fourth Generation
     - [ ] Sega Mega Jet
     - [ ] Sega Multi-Mega
     - [ ] JVC Wondermega
+- [ ] Sega Beena (1988)
+- [ ] Kingway Top Guy (1988)
+- [ ] Timetop Gameking (1988)
 - [x] Nintendo Game Boy (1989)
 - [x] Sega Genesis (1989)
     - [x] Sega CD 
@@ -97,6 +110,8 @@ Fourth Generation
     - [x] NEC TurboExpress
 - [x] Atari Lynx (1989)
 - [ ] Intertactive Vision (1989)
+- [ ] Tomy Kiss-Site (1989)
+- [ ] Tomy Pyuuta Jr. (1990)
 - [ ] Bit Corporation Gamate (1990)
 - [x] SNK Neo Geo AES (1990)
 - [x] Sega Game Gear (1990)
@@ -150,16 +165,20 @@ Seventh Generation
 
 - [ ] Game Park GP32 (2001)
 - [x] Game Boy Advance (2001)
+    - [x] Visteon Dockable Entertainment System (2003) 
 - [x] Nintendo GameCube (2001)
     - [x] Game Boy Player 
 - [x] Microsoft Xbox (2001)
 - [x] Nokia N-Gage (2003)
 - [ ] Tapwave Zodiac (2003)
+- [ ] Vtech V.Motion (2003)
 - [x] XaviXPORT (2004)
 - [x] Vtech V.Smile (2004)
+- [ ] Yamaha Copera (2004)
 - [x] Sony PlayStation Portable (PSP) (2004)
     - [x] Sony PSP Go 
 - [x] Nintendo DS (2004)
+- [ ] Daewoo Zemmix (2004)
 - [x] Gizmondo (2005)
 - [x] ZapIt Game Wave (2005)
 - [x] Microsoft Xbox 360 (2005)
