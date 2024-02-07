@@ -109,6 +109,7 @@ Fourth Generation
 - [x] Atari Lynx (1989)
 - [ ] Intertactive Vision (1989)
 - [ ] Tomy Kiss-Site (1989)
+- [ ] Cybiko Cybiko (1989)
 - [ ] Tomy Pyuuta Jr. (1990)
 - [ ] Bit Corporation Gamate (1990)
 - [x] SNK Neo Geo AES (1990)
@@ -190,6 +191,7 @@ Eighth Generation
 
 - [x] Apple iOS (2007)
 - [x] Google Android (2008)
+- [ ] Sony Xperia (2008)
 - [x] Zeebo (2009)
 - [x] OnLive (2010)
 - [x] Nintendo 3DS (2011)
@@ -217,37 +219,3 @@ Ninth Generation
 
 -----------------------------------
 Misc. [Other Things I'm Tracking]
-
-
-
-
-- [ ] Capcom Power System Changer
-- [ ] Captain Power Powerjet XT-7
-
-- [ ] Cybiko
-- [ ] Elektronika Videosport 3
-- [ ] Gakken TV Boy Compact
-- [ ] Interton VC-4000
-- [ ] Kingway Top Guy
-- [ ] Micro Genius
-- [ ] Palmtex Super Micro
-
-
-- [ ] Pioner SD-25
-- [ ] Sega Beena
-- [ ] Sega ir 7000
-- [ ] Sega Mark III
-- [ ] Sony Xperia
-
-
-- [ ] Sega Video Driver
-
-- [ ] Sony Xperia
-- [ ] Timetop Gameking
-- [ ] Tomy Kiss-Site
-- [ ] Tomy Pyuuta Jr.
-- [ ] Video Interactive Learning Game
-- [x] Visteon Dockable Entertainment System (Gameboy Advance, made for cars)
-- [ ] Vtech V.Motion
-- [ ] Yamaha Copera
-- [ ] Zemmix
