@@ -22,7 +22,6 @@ Second Generation
 - [ ] RCA Studio II (1977)
 - [ ] Coleco Telstar Arcade (1977)
 - [x] Atari 2600 (1977)
-    - [ ] Atari 2800 
 - [ ] VideoBrain Family Computer (1977)
 - [ ] Bally Professional Arcade (1978)
 - [x] Magnavox Odyssey² (1978)
@@ -49,6 +48,7 @@ Second Generation
 - [x] Atari 5200 (1982)
 - [ ] Entex Adventure Vision (1982)
 - [ ] VTech CreatiVision (1982)
+- [ ] Atari 2800 (1983)
 - [ ] Tomy Tutor (1983)
 - [ ] Mattel Aquarius (1983)
 - [x] GCE Vectrex (1983)
