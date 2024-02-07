@@ -13,6 +13,8 @@ First Generation
 
 - [x] Magnavox Odyssey (1972)
 - [x] Pong Consoles (1975)
+    - [x] Atari Pong
+    - [x] APF TV Fun
 -------------------
 Second Generation
 
@@ -64,7 +66,7 @@ Third Generation
 - [ ] Super Cassette Vision (1984)
 - [x] Nintendo Entertainment System (1985)
 - [x] Sega Master System (1986)
-- [x] Atari 7800 (1986(
+- [x] Atari 7800 (1986)
 - [ ] Game Pocket Computer (1984)
 - [ ] RDI Halcyon
 - [x] WoW Action Max (1987)
@@ -90,7 +92,7 @@ Fourth Generation
     - [ ] Sega CDX
     - [ ] JVC X'Eye
 - [x] NEC TurboGrafx-16 (1989)
-    - [ ] NEC TurboGraphx CD
+    - [ ] NEC TurboGrafx CD
     - [x] NEC TurboDuo
     - [x] NEC TurboExpress
 - [x] Atari Lynx (1989)
@@ -218,6 +220,7 @@ Misc. [Other Things I'm Tracking]
 - [ ] Sega Beena
 - [ ] Sega ir 7000
 - [ ] Sega Mark III
+- [ ] Sony Xperia
 
 
 - [ ] Sega Video Driver
