@@ -12,7 +12,7 @@ List below is based on the book: [The Game Console 2.0: A Photographic History f
 First Generation
 
 - 🗹 Magnavox Odyssey (1972)
-- 🗹 Pong Consoles (1975)
+- 🗹 Pong Consoles (1975) -->There are many Pong consoles for this period.
     - 🗹 Atari Pong
     - 🗹 APF TV Fun
 -------------------
