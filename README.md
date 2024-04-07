@@ -28,7 +28,6 @@ Second Generation
 - [ ] APF MP1000 (1978)
 - 🗹 Interton VC 4000 (1978)
 - [ ] Unisonic Champion 2711 (1978)
-- [ ] APF MP1000 (1978)
 - [ ] PC-50x Series (1979)
 - [ ] Microvision (1979)
 - [ ] Atari 800 (1979)
