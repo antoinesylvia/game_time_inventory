@@ -21,6 +21,7 @@ Second Generation
 - 🗹 Fairchild Channel F (1976)
 - [ ] RCA Studio II (1977)
 - [ ] Coleco Telstar Arcade (1977)
+- [ ] Coleco Telstar Combat (1977)
 - 🗹 Atari 2600 (1977)
 - [ ] VideoBrain Family Computer (1977)
 - [ ] Bally Professional Arcade (1978)
@@ -55,6 +56,7 @@ Second Generation
 - [ ] Interton VC-4000 (1983)
 - [ ] Phillips Videopac+ g7400 (1983)
 - [ ] Casio PV-1000 (1983)
+- [ ] Nichibutsu My Vision
     
 -------------------
 Third Generation
@@ -106,7 +108,7 @@ Fourth Generation
     - 🗹 NEC TurboDuo
     - 🗹 NEC TurboExpress
 - 🗹 Atari Lynx (1989)
-- [ ] Intertactive Vision (1989)
+- [ ] View-Master Intertactive Vision (1989)
 - [ ] Tomy Kiss-Site (1989)
 - [ ] Cybiko Cybiko (1989)
 - [ ] Tomy Pyuuta Jr. (1990)
@@ -177,6 +179,7 @@ Seventh Generation
     - 🗹 Sony PSP Go 
 - 🗹 Nintendo DS (2004)
 - [ ] Daewoo Zemmix (2004)
+- [ ] Nikko DigiBlast (2005)
 - 🗹 Gizmondo (2005)
 - 🗹 ZapIt Game Wave (2005)
 - 🗹 Microsoft Xbox 360 (2005)
